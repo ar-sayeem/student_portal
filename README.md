@@ -4,7 +4,8 @@
 <img src="https://img.shields.io/badge/Laravel-11-red?style=for-the-badge&logo=laravel" alt="Laravel 11">
 <img src="https://img.shields.io/badge/PHP-8.1+-blue?style=for-the-badge&logo=php" alt="PHP 8.1+">
 <img src="https://img.shields.io/badge/SQLite-Database-green?style=for-the-badge&logo=sqlite" alt="SQLite">
-<img src="https://img.shields.io/badge/Alpine.js-Frontend-purple?style=for-the-badge&logo=alpine.js" alt="Alpine.js">
+<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License">
+<img src="https://img.shields.io/github/last-commit/ar-sayeem/student_portal?style=for-the-badge&color=brightgreen" alt="Last Commit">
 </p>
 
 A comprehensive **Student Portal Management System** built with Laravel 11, featuring role-based authentication, assignment management, and academic tracking. This system streamlines educational workflows between administrators, teachers, and students.
@@ -89,7 +90,7 @@ This project demonstrates a complete educational management platform with:
 ### **Installation:**
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/ar-sayeem/student_portal.git
 cd student_portal
 
 # 2. Install dependencies
